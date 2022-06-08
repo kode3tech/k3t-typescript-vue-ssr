@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-typescript-vue-ssr
   title: TypeScript Vue SSR
-  description: 
+  description: Criar uma single page application usando VueJs e server side render
   tags:
     - typescript
     - frontend
     - spa
     - pwa
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
